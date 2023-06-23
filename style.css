@@ -67,3 +67,12 @@ a:active {
 body{
 background-color: #FFFFFF
 }
+.box{
+background-color:#FFFFFF;
+	padding: 0px 5px 20px 5px;
+	border: 1px solid black;
+	margin: 20px 30%;
+}
+li{
+	text-align: left;
+}
