@@ -76,3 +76,10 @@ background-color:#FFFFFF;
 li{
 	text-align: left;
 }
+
+@media (orientation: portrait) {
+.box{
+background-color:#FFFFFF;
+	padding: 0px 5px 20px 5px;
+	border: 1px solid black;
+}}
