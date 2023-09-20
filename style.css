@@ -4,15 +4,6 @@ body {
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
-span {
-	font-size: 2em;
-}
-#win {
-	height: 25%;
-	width: 25%;
-	padding-right: 2em;
-	padding-left: 2em;
-}
 #LinkBar {
 	padding-right: 1em;
 	padding-left: 1em;
@@ -64,9 +55,6 @@ a:hover {
 a:active {
     color: #FFA31A;
 }
-body{
-background-color: #FFFFFF
-}
 .box{
 background-color:#FFFFFF;
 	padding: 0px 5px 20px 5px;
@@ -79,7 +67,8 @@ li{
 
 @media (orientation: portrait) {
 .box{
-background-color:#FFFFFF;
+	background-color:#FFFFFF;
 	padding: 0px 5px 20px 5px;
 	border: 1px solid black;
+	margin: 20px 0%;
 }}
